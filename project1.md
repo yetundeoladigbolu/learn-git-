@@ -21,3 +21,6 @@ Markdown | Less | Pretty
 Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote. 
+
+
+[![IMAGE ALT TEXT HERE](https://th.bing.com/th/id/OIP.35dX1zccGj1dxYZBvKuEbQHaEK?w=299&h=180&c=7&r=0&o=5&pid=1.7)](https://www.youtube.com/watch?v=1RKpAch1PJE)

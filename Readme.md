@@ -32,3 +32,6 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+
+![alt text](https://th.bing.com/th/id/OIP._wuFQQfskTWdgt4b3Gd_4QHaFS?w=270&h=193&c=7&r=0&o=5&pid=1.7)
