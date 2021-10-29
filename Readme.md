@@ -16,22 +16,9 @@ application layer is used by end users software
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
-Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
 
 
 ![alt text](https://th.bing.com/th/id/OIP._wuFQQfskTWdgt4b3Gd_4QHaFS?w=270&h=193&c=7&r=0&o=5&pid=1.7)
+
+internet control message protocol networking it can be used to relay query messeages, its used by the network device like routers to send error messages indicating thats requested service is not avaliable  
